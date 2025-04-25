@@ -1,0 +1,4 @@
+D 'domdiag': Construct dominance diagrams Use domdiag With STATA 19
+D
+F domdiag.ado
+F domdiag.hlp
