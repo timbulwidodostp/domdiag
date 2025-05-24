@@ -1,6 +1,8 @@
 # domdiag
 Construct dominance diagrams Use domdiag With STATA 19
 
+https://www.youtube.com/watch?v=xFWbN25eI5A
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
